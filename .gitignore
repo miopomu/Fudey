@@ -1,0 +1,19 @@
+# API Keys and Secrets
+GoogleService-Info.plist
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+.DS_Store
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+DerivedData/
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
